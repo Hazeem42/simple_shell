@@ -10,7 +10,7 @@ int main(int ac, char **av)
 {
 	int i = 0;
 
-	whilw (av[i])
+	while (av[i])
 	{
 		printf("%s", av[i]);
 		i++;
