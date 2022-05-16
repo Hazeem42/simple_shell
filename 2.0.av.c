@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - prototype
+ * main - Prototype
  * @ac: argument 1
  * @av: argument 2
  * Return: 0
@@ -12,7 +12,7 @@ int main(int ac, char **av)
 
 	while (av[i])
 	{
-		printf("%s", av[i]);
+		Printf("%s", av[i]);
 		i++;
 	}
 	printf("\n");
