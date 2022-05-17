@@ -1,4 +1,4 @@
-.TH man 1 "28 Nov 2019" "0.32" "our own simple_shell man page"
+.TH man 1 "17 May 2022" "0.32" "our own simple_shell man page"
 .SH NAME
 .B our own simple_shell
 - We try to build our own simple shell.
@@ -41,4 +41,4 @@ we compare with printf function original our own _printf function with next exam
 .SH ISSUES
 We have a issue in check #
 .SH AUTHORS
-Ricardo Barreto, Diego Rojas and Juan David Restrepo Z
+Philip Oyelegbin and Korede Hazeem
